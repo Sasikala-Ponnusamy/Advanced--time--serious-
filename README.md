@@ -4,8 +4,7 @@ Time Series Forecasting
 This repository contains a compact example of a multivariate time-series forecasting pipeline implemented in a single Jupyter notebook:
 
 Time_Series_Forecasting.ipynb — data generation, preprocessing, LSTM model training, evaluation, and explainability using Captum.
-Open the notebook in Colab: https://colab.research.google.com/github/NithyaprasathS/time_series_forecasting/blob/main/Time_Series_Forecasting.ipynb
-
+Open the notebook in Colab: https://colab.research.google.com/drive/1Cb6gyQcImNLxQRbtU1I2EyTtAoF3m9Mb#scrollTo=6J6-fi7Fcgpm
 Repository structure
 Time_Series_Forecasting.ipynb — full runnable example (data generation -> preprocess -> dataset -> LSTM training -> evaluation -> Integrated Gradients explainability)
 README.md — this file
