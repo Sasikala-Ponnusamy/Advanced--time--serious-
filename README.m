@@ -1,6 +1,6 @@
 # Advanced--time--serious-
 Advanced Time series Forecasting using LSTM Neural Network
-Time Series Forecasting
+
 This repository contains a compact example of a multivariate time-series forecasting pipeline implemented in a single Jupyter notebook:
 
 Time_Series_Forecasting.ipynb — data generation, preprocessing, LSTM model training, evaluation, and explainability using Captum.
