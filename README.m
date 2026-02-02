@@ -66,7 +66,7 @@ pip install numpy pandas scikit-learn torch captum
 
 How to run
 Open the notebook in Colab:
-https://colab.research.google.com/github/NithyaprasathS/time_series_forecasting/blob/main/Time_Series_Forecasting.ipynb
+https://colab.research.google.com/drive/1Cb6gyQcImNLxQRbtU1I2EyTtAoF3m9Mb#scrollTo=6J6-fi7Fcgpm
 Or run locally:
 Create a new virtual environment
 pip install numpy pandas scikit-learn torch captum
